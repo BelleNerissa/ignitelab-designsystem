@@ -8,7 +8,7 @@ export default {
   component: Checkbox,
   args: {},
   argTypes: {},
-  // decorators adds a bonus content for the story like description text
+  // decorators adds a bonus content for the story like description
   decorators: [
     (Story) => {
       return (
